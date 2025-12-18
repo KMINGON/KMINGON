@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=Security%20Analyst%20·%20Developer&animation=&fontColor=ffffff&fontSize=40)
 
-## Tech Stack 
+[![Blog](https://img.shields.io/badge/Blog-GitHub%20Pages-181717?style=flat-square&logo=github&logoColor=white)](https://KMINGON.github.io)
 
+## Tech Stack 
 ### Languages
 
 <p>
