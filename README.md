@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </p>
@@ -26,6 +28,7 @@
   <img src="https://img.shields.io/badge/OwaspZAP-00549E?style=flat-square&logo=zap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burpsuite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/KaliLinux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WireShark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
 </p>
 
 ## Stats
