@@ -51,7 +51,6 @@
 
 ## Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=KMINGON&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMINGON&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"/>
-</p>
+
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=KMINGON&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KMINGON&layout=compact&theme=transparent))
