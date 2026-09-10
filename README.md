@@ -55,3 +55,13 @@
 
 [![KMINGON's GitHub stats](./profile/stats.svg)](https://github.com/stats-organization/github-stats-extended)
 ![Top Languages](./profile/top-langs.svg)
+
+| Metric | Period / scope |
+| --- | --- |
+| Commits | All time; GitHub-searchable commits on default branches |
+| PRs / Issues | All time; authored by me |
+| Contributed to | Past 12 months; repositories owned by others |
+| Stars | Current total on my repositories |
+| Languages | Current code size in my non-fork repositories |
+
+Includes accessible private repositories. Updated daily at 09:17 KST.
