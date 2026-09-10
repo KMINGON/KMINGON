@@ -53,5 +53,5 @@
 ## Stats
 
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=KMINGON&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KMINGON&layout=compact&theme=transparent)
+[![KMINGON's GitHub stats](./profile/stats.svg)](https://github.com/stats-organization/github-stats-extended)
+![Top Languages](./profile/top-langs.svg)
