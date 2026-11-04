@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=110&amp;text=Security%20Analyst%20%C2%B7%20Developer&amp;fontColor=ffffff&amp;fontSize=36" width="100%" alt="Security Analyst · Developer">
 </p>
 
-## My Sites
+<h2 align="center">My Sites</h2>
 
-<p>
+<p align="center">
   <a href="https://blog.mingon.dev/"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&amp;logo=rss&amp;logoColor=white" alt="Blog"></a>
   <a href="https://docs.mingon.dev/"><img src="https://img.shields.io/badge/Docs-181717?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Docs"></a>
   <a href="https://toy.mingon.dev/"><img src="https://img.shields.io/badge/Toy-181717?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Toy"></a>
@@ -12,23 +12,23 @@
 
 <!-- Add the Portfolio link when https://mingon.dev/ is published. -->
 
-## AI
+<h2 align="center">AI</h2>
 
-<p>
+<p align="center">
   <img src="./profile/badges/codex.svg" alt="Codex">
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&amp;logo=claude&amp;logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini">
   <img src="./profile/badges/orca.svg" alt="Orca">
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Agent%20Skills-181717?style=flat-square" alt="Agent Skills">
   <img src="https://img.shields.io/badge/MCP-181717?style=flat-square" alt="MCP">
   <img src="https://img.shields.io/badge/Automation-181717?style=flat-square" alt="Automation">
 </p>
 
-## Development
+<h2 align="center">Development</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square" alt="Java">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C">
@@ -38,12 +38,12 @@
   <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash">
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare">
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase">
@@ -53,9 +53,9 @@
   <img src="./profile/badges/playwright.svg" alt="Playwright">
 </p>
 
-## Security
+<h2 align="center">Security</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite">
   <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square" alt="OWASP ZAP">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
@@ -63,10 +63,12 @@
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&amp;logo=metasploit&amp;logoColor=white" alt="Metasploit">
 </p>
 
-## Activity
+<h2 align="center">Activity</h2>
 
-<p>
+<p align="center">
   <img src="./profile/stats.svg" width="450" alt="GitHub Stats">
 </p>
 
-<img src="./profile/top-langs.svg" alt="Most Used Languages">
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Most Used Languages">
+</p>
