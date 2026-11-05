@@ -18,19 +18,21 @@
   <img src="./profile/badges/codex.svg" alt="Codex">
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&amp;logo=claude&amp;logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/OpenCode-181717?style=flat-square&amp;logo=opencode&amp;logoColor=white" alt="OpenCode">
   <img src="./profile/badges/orca.svg" alt="Orca">
+  <img src="./profile/badges/local-llm.svg" alt="Local LLM">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Agent%20Skills-181717?style=flat-square" alt="Agent Skills">
-  <img src="https://img.shields.io/badge/MCP-181717?style=flat-square" alt="MCP">
-  <img src="https://img.shields.io/badge/Automation-181717?style=flat-square" alt="Automation">
+  <img src="https://img.shields.io/badge/Agent%20Skills-181717?style=flat-square&amp;logo=agentskills&amp;logoColor=white" alt="Agent Skills">
+  <img src="https://img.shields.io/badge/MCP-181717?style=flat-square&amp;logo=modelcontextprotocol&amp;logoColor=white" alt="MCP">
+  <img src="./profile/badges/automation.svg" alt="Automation">
 </p>
 
 <h2 align="center">Development</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square" alt="Java">
+  <img src="./profile/badges/java.svg" alt="Java">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
@@ -45,6 +47,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
+  <img src="./profile/badges/aws.svg" alt="AWS">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare">
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
@@ -57,7 +60,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square" alt="OWASP ZAP">
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&amp;logo=zap&amp;logoColor=white" alt="OWASP ZAP">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&amp;logo=metasploit&amp;logoColor=white" alt="Metasploit">
